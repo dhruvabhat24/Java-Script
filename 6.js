@@ -1,4 +1,4 @@
-let a =prompt('Hey whats your age?');
+let a =prompt('Hey whats your age?');//prompt wont work in vc code use browser for prompt
 a = Number.parseInt(a);
 if(a<0){
     alert("this is an invalid age")
