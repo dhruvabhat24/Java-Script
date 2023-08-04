@@ -4,3 +4,4 @@
 1. Variables
 1. Primitive and Non-Primitive(object) Datatypes
 1. Operators and Expresssions in Java Script
+2. Conditional Expression
