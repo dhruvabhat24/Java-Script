@@ -6,3 +6,4 @@
 5. Operators and Expresssions in Java Script
 6. Conditional Expression
 7. For Loop
+# Practice code
