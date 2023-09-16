@@ -1,12 +1,9 @@
-# Java-Script Code
+# JavaScript Code
 1. Introduction
-2. Difference between var let and const
+2. Difference between var, let, and const
 3. Variables
-4. Primitive and Non-Primitive(object) Datatypes
-5. Operators and Expresssions in Java Script
-6. Conditional Expression For Loop
+4. Primitive and Non-Primitive (object) Data Types
+5. Operators and Expressions in JavaScript
+6. Conditional Expressions
 7. for Loop
 8. while loop
-# Practice code
-1. Practice 1
-2. Practice 2
