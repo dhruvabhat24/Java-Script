@@ -7,4 +7,6 @@
 6. Conditional Expression For Loop
 7. for Loop
 8. while loop
-S
+# Practice code
+1. Practice 1
+2. Practice 2
