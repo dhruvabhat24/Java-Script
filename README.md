@@ -7,4 +7,6 @@
 6. Conditional Expression
 7. For Loop
 # Practice code
+1. Practice 1
+2. Practice 2
 
