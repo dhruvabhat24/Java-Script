@@ -7,6 +7,7 @@
 6. Conditional Expression
 7. For Loop
 8. While Loop
+9. Taking user input
 # Practice code
 1. Practice 1
 2. Practice 2
